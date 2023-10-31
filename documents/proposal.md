@@ -14,7 +14,7 @@ The Boyer-Moore algorithm is an efficient string searching (or substring searchi
 
 There are two main preprocessing tables (bad character heuristic and good suffix heuristic) and a search function to consider:
 
-1. `void preprocess_bad_character(std::string pattern, int badChar[NO_OF_CHARS])`
+1. `void preprocess_bad_character(std::string pattern, int badChar)`
 ```
 @param pattern -- The pattern string for which the table is being prepared
 @param badChar -- An array to store the bad character heuristic
