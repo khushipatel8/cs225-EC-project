@@ -38,14 +38,14 @@ This function will preprocess the "good suffix" heuristic, which determines how 
 ```
 This function will take the text and the pattern being searched for as parameters and use the preprocessing tables to search for the pattern in the text using the algorithm.
 
-Our proposed test 1 will search for specific phrases or sentiments within the "Review" column. We'll generate table values for sample patterns, such as "Loved" or "not good".
-We'll validate the consistency of these tables, ensuring that they align with the known, expected values for said patterns.
+Our proposed Test 1 will search for specific DNA sequences within the "DNA_dataset_5.txt" dataset. We'll examine sequences for specific patterns, such as "CAGTC" which is located at the start of the dataset. We'll validate the consistency of the search results, ensuring that they align with the known, expected positions for said patterns.
 
-Our proposed test 2 will identify patterns correlating with the "Liked" column values (1 for positive sentiment, 0 for negative). For example, we'll validate if reviews containing "Loved" predominantly have a "Liked" value of 1. 
+Our proposed Test 2 will look for specific subsequences within the larger sequences of the "DNA_dataset_50.txt" dataset. For instance, we'll validate if sequences containing the pattern "GTCTAA" are accurately identified by the algorithm, given that this subsequence is a part of one of the DNA sequences in the dataset.
 
-Our proposed test 3 will use varied patterns to preprocess tables so we can validate if the generated tables are consistent in terms of the positions being shifted correctly. We can use example patterns like "tasty” and "recommendation".
+Our proposed Test 3 will search for distinct DNA sequences in the more extensive "DNA_dataset_500.txt" dataset. We will validate if the algorithm can consistently detect the pattern "GCGCTCATGT" within the dataset.
 
-For our methods, we will write additional tests as we continue the development process.
+For our methods, we will write additional tests to ensure the accuracy and efficiency of the search algorithm, especially as we scale to larger datasets or introduce variations in the patterns we are searching for.
+
 
 ## Data Description
 
