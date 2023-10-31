@@ -8,7 +8,7 @@ To help us understand the paper, we are using the Wikipedia explanation for the 
 
 ## Algorithm Summary
 
-The Boyer-Moore algorithm is an efficient string searching (or substring searching) algorithm that skips sections of the text, leading to a reduced number of average operations needed to be performed on the string. The algorithm uses preprocessing tables based on the pattern it seeks to find and applies the positional shifts that allow us to have efficient string searching. 
+The Boyer-Moore algorithm is an efficient string searching algorithm that skips sections of the text, leading to a reduced number of average operations needed to be performed on the string. The algorithm uses preprocessing tables based on the pattern it seeks to find and applies the positional shifts that allow us to have efficient string searching. 
 
 ## Function I/O
 
