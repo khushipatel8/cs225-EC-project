@@ -49,4 +49,23 @@ For our methods, we will write additional tests as we continue the development p
 
 ## Data Description
 
-Our selected dataset, "Restaurant Reviews", is sourced from Kaggle. Stored in the /data directory, this dataset provides data regarding restaurant reviews. The data is formatted with each row representing an individual written review of the restaurant and whether they liked the food or not, determined by a 1 or a 0. The dataset is structured as a table with numerical values and string reviews. It is downloadable as a TSV, so it is already a tab separated dataset of values. 
+Our selected datasets were manually generated using a python script, that randomly created DNA sequences using ACTG combinations. Stored in the /data directory, this data is formatted with each row representing an individual DNA sequence. The dataset is structured as a text file with string sequences. It is downloadable as a .txt so we can utilize the data efficiently. We manually generated our datasets using the python code shown below.
+
+```
+import random
+
+def sequences(length=10):
+    return ''.join(random.choice('ACGT') for _ in range(length))
+
+def dataset(num, slength=10):
+    return [sequences(slength) for _ in range(num)]
+
+dssize = [5, 50, 500, 5000, 50000]
+slength = 10
+
+for s in dssize:
+    ds = dataset(s, slength)
+    with open(f"DNA_dataset_{s}.txt", "w") as file:
+        for seq in ds:
+            file.write(seq + "\n")
+```
