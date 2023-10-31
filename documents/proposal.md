@@ -1,10 +1,10 @@
 ## Academic Reference
 
-The algorithm we are proposing to implement is Boyer and Moore's exact string matching algorithm.
+The algorithm we are proposing to implement is the Boyer-Moore exact string-matching algorithm.
 
-We will use this provided website for our main in depth understanding of the algorithm: https://dl.acm.org/doi/10.1145/359842.359859
+We will use this provided website for our main in-depth understanding of the algorithm: https://dl.acm.org/doi/10.1145/359842.359859
 
-To help us understand the paper, we are using the Wikipedia explanation for the logic and pseudocode of the algoprithm: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm
+To help us understand the paper, we are using the Wikipedia explanation for the logic and pseudocode of the algorithm: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm
 
 ## Algorithm Summary
 
@@ -14,7 +14,7 @@ The Boyer-Moore algorithm is an efficient string searching (or substring searchi
 
 There are two main preprocessing tables (bad character heuristic and good suffix heuristic) and a search function to consider:
 
-1. `void preprocess_bad_character(std::string pattern, int badChar)`
+1. `void preprocess_bad_character(std::string pattern, int[] badChar[])`
 ```
 @param pattern -- The pattern string for which the table is being prepared
 @param badChar -- An array to store the bad character heuristic
