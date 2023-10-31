@@ -1,0 +1,86 @@
+﻿"Absolutely loved the ambience.", 1
+"The pizza was just average, nothing special.", 0
+"The service was incredibly slow today.", 0
+"Their new dessert menu is a must-try!", 1
+"Such a cozy spot with an excellent wine selection.", 1
+"The waiter was rude.", 0
+"Definitely coming back for their signature dishes.", 1
+"Not worth the money.", 0
+"The outdoor seating was very pleasant.", 1
+"Found a hair in my food.", 0
+"I'm a fan of their vegan options.", 1
+"The kids' menu needs more variety.", 0
+"Fantastic brunch offerings!", 1
+"The food came out cold.", 0
+"Best sushi in town!", 1
+"The music was too loud and disturbing.", 0
+"The chef's special was a delight.", 1
+"My coffee was stale.", 0
+"Happy hour deals are unbeatable.", 1
+"The bathrooms were unclean.", 0
+"I appreciate their organic and local produce choices.", 1
+"The pasta was overcooked.", 0
+"A gem of a place with authentic dishes.", 1
+"They got my order wrong twice.", 0
+"The atmosphere is romantic and perfect for date nights.", 1
+"The portion sizes are too small for the price.", 0
+"Every visit is consistently good.", 1
+"I found the food too spicy and unpalatable.", 0
+"Very accommodating staff.", 1
+"The presentation of dishes is subpar.", 0
+"An excellent choice for family dinners.", 1
+"The dessert tasted old.", 0
+"The bar section is lively and has a great vibe.", 1
+"My reservation was lost, and we had to wait.", 0
+"Highly recommend their seafood platter.", 1
+"Too crowded and noisy.", 0
+"Fresh and delicious bakery items!", 1
+"The service was impersonal.", 0
+"Great for catching up with friends.", 1
+"The food lacked flavor.", 0
+"Very innovative dishes with a fusion twist.", 1
+"Overpriced drinks.", 0
+"The views from the restaurant are stunning.", 1
+"They need to improve their hygiene standards.", 0
+"Quick and efficient takeout service.", 1
+"The steak was chewy.", 0
+"I love their seasonal menu changes.", 1
+"Horrible experience with the valet parking.", 0
+"Wonderful ambiance with live music on weekends.", 1
+"My food had a strange aftertaste.", 0
+"The breakfast spread is vast and satisfying.", 1
+"The restaurant was too dimly lit.", 0
+"They source their ingredients sustainably.", 1
+"I was overcharged for my meal.", 0
+"Best place for authentic tacos.", 1
+"The seating was uncomfortable.", 0
+"The staff goes above and beyond to ensure a great experience.", 1
+"The soup was too salty.", 0
+"Themed nights with cuisine from around the world.", 1
+"My dish was missing key ingredients.", 0
+"Thoroughly enjoyed the chef's tasting menu.", 1
+"The mocktails tasted bland.", 0
+"Convenient location with ample parking.", 1
+"I had to send my dish back because it was undercooked.", 0
+"Perfect spot for celebrations and gatherings.", 1
+"The AC wasn't working properly.", 0
+"Loved the modern and chic interiors.", 1
+"The bread was stale.", 0
+"The farm-to-table concept here is commendable.", 1
+"I had a bad stomach after eating here.", 0
+"The curated wine list is impressive.", 1
+"Found the ambiance too cluttered.", 0
+"They serve the freshest seafood.", 1
+"The servers seemed untrained.", 0
+"The grilled items are perfectly cooked.", 1
+"The restaurant lacked a welcoming vibe.", 0
+"Stellar customer service!", 1
+"My drink was watered down.", 0
+"The desserts are heavenly.", 1
+"The waiting time is too long, even with a reservation.", 0
+"Enjoyed the panoramic city views.", 1
+"The menu descriptions are misleading.", 0
+"Top-notch ingredients and preparation.", 1
+"The restaurant was too loud to have a conversation.", 0
+"An extensive and varied menu catering to all tastes.", 1
+"The salad was wilted.", 0

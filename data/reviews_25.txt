@@ -1,0 +1,25 @@
+﻿"Amazing food and service!", 1
+"The pasta was undercooked.", 0
+"Best cheesecake in town!", 1
+"I waited too long for my order.", 0
+"Charming ambiance and decor.", 1
+"The soup was too salty.", 0
+"Loved their cocktail menu.", 1
+"Found a hair in my dish.", 0
+"Prompt and courteous service.", 1
+"The music was obnoxiously loud.", 0
+"A hidden gem in the city!", 1
+"The restroom was dirty.", 0
+"Enjoyed their brunch special.", 1
+"My steak was overcooked.", 0
+"Fresh and tasty seafood options.", 1
+"Very crowded and noisy.", 0
+"Vegetarian-friendly options available.", 1
+"They got my order wrong.", 0
+"Rooftop seating is a must-try!", 1
+"The staff was inattentive.", 0
+"The buffet spread was vast.", 1
+"The dessert was too sweet.", 0
+"Friendly and welcoming staff.", 1
+"Very limited vegan options.", 0
+"Their signature dish was delightful.", 1
