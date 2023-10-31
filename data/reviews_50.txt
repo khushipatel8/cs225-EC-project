@@ -1,0 +1,50 @@
+﻿"Amazing food and service!", 1
+"The pasta was undercooked.", 0
+"Best cheesecake in town!", 1
+"I waited too long for my order.", 0
+"Charming ambiance and decor.", 1
+"The soup was too salty.", 0
+"Loved their cocktail menu.", 1
+"Found a hair in my dish.", 0
+"Prompt and courteous service.", 1
+"The music was obnoxiously loud.", 0
+"A hidden gem in the city!", 1
+"The restroom was dirty.", 0
+"Enjoyed their brunch special.", 1
+"My steak was overcooked.", 0
+"Fresh and tasty seafood options.", 1
+"Very crowded and noisy.", 0
+"Vegetarian-friendly options available.", 1
+"They got my order wrong.", 0
+"Rooftop seating is a must-try!", 1
+"The staff was inattentive.", 0
+"The buffet spread was vast.", 1
+"The dessert was too sweet.", 0
+"Friendly and welcoming staff.", 1
+"Very limited vegan options.", 0
+"Their signature dish was delightful.", 1
+"The pizza lacked toppings.", 0
+"Authentic taste and flavors.", 1
+"The wine list is outdated.", 0
+"Lively atmosphere during weekends.", 1
+"The dish was cold when served.", 0
+"Great spot for coffee and conversations.", 1
+"Too pricey for the quality.", 0
+"The bartender knows his craft.", 1
+"My reservation was not honored.", 0
+"Outdoor seating has a great view.", 1
+"Portion size was too small.", 0
+"Kid-friendly restaurant with play area.", 1
+"The sauce was too spicy.", 0
+"Must-try their seasonal specials.", 1
+"The table was sticky and unclean.", 0
+"The daily specials are a treat.", 1
+"The curry had an off taste.", 0
+"Perfect place for date night.", 1
+"Service was slow during rush hour.", 0
+"Healthy and delicious smoothie options.", 1
+"Unpleasant experience with the valet.", 0
+"Highly recommend their pastries.", 1
+"The restaurant was too dim.", 0
+"Friendly staff and prompt service.", 1
+"The sushi roll fell apart easily.", 0
